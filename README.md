@@ -1,7 +1,7 @@
 ### Hi there 
 
 Engineering manager/director at a company whose 
-mission it is to help the planet survive the [anthropecene](https://en.wikipedia.org/wiki/Anthropocene).
+mission it is to help the planet survive the [anthropocene](https://en.wikipedia.org/wiki/Anthropocene).
 
 These days I mostly code for fun.
 
