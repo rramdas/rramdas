@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**rramdas/rramdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering manager/director at a company whose 
+mission it is to help the planet survive the [anthropecene](https://en.wikipedia.org/wiki/Anthropocene).
 
-Here are some ideas to get you started:
+These days I mostly code for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My day job:
+
+- help developers [flow](https://en.wikipedia.org/wiki/Flow_(psychology))
+- enhance society through delivering [software](https://www.royalhaskoningdhv.com/en/challenges/digital-transformation/digital-twins) with my teams
+- apply common-sense to uncommon problems
+
+
+
